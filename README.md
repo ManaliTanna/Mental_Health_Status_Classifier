@@ -1,2 +1,2 @@
-# dl_midterm
-Deep Learning Midterm
+# Deep Learning Project
+Deep Learning Project
