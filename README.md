@@ -20,7 +20,7 @@ This project implements a finetuned BERT-based model for detecting mental health
 ### Setup
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/ManaliTanna/Mental_Health_Status_Classifier.git
 cd mental-health-app
 ```
 
