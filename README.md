@@ -80,31 +80,3 @@ The classifier uses a fine-tuned BERT model with the following specifications:
 | Suicidal         | 0.79      | 0.85    | 0.82      |
 
 Overall Accuracy: 92%
-
-## Important Notes
-
-### Disclaimer
-This tool is for demonstration and research purposes only. It should not be used for self-diagnosis or as a substitute for professional medical advice, diagnosis, or treatment.
-
-### Crisis Resources
-- National Crisis Hotline (US): 988
-- Crisis Text Line: Text HOME to 741741
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-[Insert your chosen license]
-
-## Citation
-If you use this work in your research, please cite:
-```
-[Insert citation information from your paper]
-```
-
-## Contact
-[Your contact information]
-
-## Acknowledgments
-- Research based on the paper "Fine-Tuning BERT for Mental Health Status"
-- Dataset sourced from Kaggle
