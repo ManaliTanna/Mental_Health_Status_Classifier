@@ -1,7 +1,5 @@
 # Mental Health Status Classifier
 
-Deep Learning Project NYU
-
 ## Overview
 This project implements a finetuned BERT-based model for detecting mental health status from text input. The model can classify text into seven categories: Anxiety, Bipolar, Depression, Normal, Personality Disorder, Stress, and Suicidal. Built using the Transformers library and deployed as a Streamlit web application, this tool demonstrates the potential of AI in mental health screening while emphasizing its role as a supplementary tool rather than a replacement for professional medical advice.
 
